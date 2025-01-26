@@ -10,7 +10,13 @@ function Navbar() {
     <a class="navbar-brand brand-logo" href="./index.html">
                 <img
                   class="img-fluid"
-                  src="./images/BrandLogo-dark (2).svg"
+                  src="./images/BlueLogoSmallSquare.jpg"
+                  alt=""
+                  srcset=""
+                />
+                <img
+                  class="img-fluid"
+                  src="./images/BrandLogo1.png"
                   alt=""
                   srcset=""
                 />
@@ -37,7 +43,7 @@ function Navbar() {
                 >
               </li>
               <li class="nav-item ms-md-1">
-                <a class="nav-link" href="./careers.html">Carrers</a>
+                <a class="nav-link" href="./careers.html">Careers</a>
               </li>
               <li class="nav-item ms-md-1">
                 <a class="nav-link" href="./service.html">Services</a>
@@ -49,13 +55,7 @@ function Navbar() {
                 <a class="nav-link" href="./contact.html">Contact us</a>
               </li>
             </ul>
-            <a
-              target="_"
-              href="https://github.com/imShivam579/Agency-Website"
-              class="btn btn-outline-warning rounded-pill bg-brand-primayfaint"
-            >
-              Clone App
-            </a>
+           
           </div>
     `;
   navbar.appendChild(div);
