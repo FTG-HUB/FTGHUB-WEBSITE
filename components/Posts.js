@@ -51,7 +51,7 @@ function showPostSection(data) {
     );
     const postObj = categoryData.PostsObject;
     postObj.forEach((post) => {
-      const { title, imgURL, description } = post;
+      const { title, imgURL, description, linkURL } = post;
       const PostEl = document.createElement("div");
       PostEl.classList.add("col");
       PostEl.innerHTML = `
@@ -66,7 +66,7 @@ function showPostSection(data) {
         <p class="card-text cl-battelshipGrey-600">
         ${description}
         </p>
-        <a href="./BlogInner.html" class="">Card link <i class="bi bi-arrow-right"></i></a>
+        <a href="${linkURL}" class="">Card link <i class="bi bi-arrow-right"></i></a>
       </div>
     </div>
           `;

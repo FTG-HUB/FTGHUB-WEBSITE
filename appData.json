@@ -1,23 +1,26 @@
 [
   {
     "name": "helpPosts",
-    "title": "We help more than 1500 companies from all sectors",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, mattis purus. Vivamus commodo suscipit tellus et pellentesque.",
+    "title": "We Transform Businesses and Empower Communities Through Technology",
+    "description": "We’ve built end-to-end custom software solutions for businesses, trained 100+ students in tech skills, and launched initiatives like Tech in Slum to bridge the digital divide and empower underserved communities",
     "PostsObject": [
       {
-        "title": "Business strategy",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et,",
-        "imgURL": "./images/helpSection-img1.png"
+        "title": "Custom Development",
+        "description": "We deliver tailored mobile and web development solutions, offering scalable, culturally relevant, and cost-effective software designed to meet unique business needs.",
+        "imgURL": "./images/helpSection-img1.png",
+        "linkURL": "./service.html"
       },
       {
-        "title": "Digitalization",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et,",
-        "imgURL": "./images/helpSection-img2.png"
+        "title": "Tech Trainings",
+        "description": "FTG_Hub offers immersive tech training programs for adults and kids, focusing on practical skills through project-based learning, bootcamps, and personalized mentorship.",
+        "imgURL": "./images/helpSection-img2.png",
+        "linkURL": "./service.html"
       },
       {
-        "title": "Risk assessment",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et,",
-        "imgURL": "./images/helpSection-img3.png"
+        "title": "Community Engagement",
+        "description": "Empowering communities through free digital literacy workshops, tech events, and initiatives like Tech in Slum to foster inclusion and drive innovation",
+        "imgURL": "./images/helpSection-img3.png",
+        "linkURL": "./service.html"
       }
     ]
   },
@@ -29,17 +32,20 @@
       {
         "title": "Why you have to digitalize in 2021",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et,",
-        "imgURL": "./images/blogSection-img1.png"
+        "imgURL": "./images/blogSection-img1.png",
+        "linkURL": "./BlogInner.html"
       },
       {
         "title": "Our internal process and longerm vision",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et,",
-        "imgURL": "./images/blogSection-img2.png"
+        "imgURL": "./images/blogSection-img2.png",
+        "linkURL": "./BlogInner.html"
       },
       {
         "title": "Helping the next generation of leaders",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et,",
-        "imgURL": "./images/blogSection-img3.png"
+        "imgURL": "./images/blogSection-img3.png",
+        "linkURL": "./BlogInner.html"
       }
     ]
   }
