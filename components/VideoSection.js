@@ -7,11 +7,9 @@ function showReview() {
   videoSectionEl.innerHTML = `
     <div class="row align-items-center">
             <div class="col-12 col-md-6 py-5">
-              <h2>Finsweet was a dream to work with</h2>
+              <h2>FTG Hub was a dream to work with</h2>
               <p class="my-4">
-                Maecenas efficitur scelerisque lorem, et varius lacus tincidunt
-                vel. Pellentesque a arcu vitae diam dapibus mattis vel vel orci.
-                Vivamus eleifend nec felis vel auctor.
+                "Working with FTG Hub was an absolute game-changer for our business. Their team not only understood our vision but delivered a custom software solution that exceeded our expectations. Their professionalism, expertise, and commitment to our success made the entire process seamless. I highly recommend FTG Hub to any business looking for innovative and reliable tech solutions."
               </p>
 
               <figcaption class="reviewer-info d-flex align-items-center mt-5">
@@ -23,8 +21,8 @@ function showReview() {
                   style="width: 50px; height: 50px"
                 />
                 <div class="px-3">
-                  <div class="fs-6 cl-blue-700 fw-bold">Chikelu Neo</div>
-                  <span class="mt-1 cl-primary">CEO at MazeAI</span>
+                  <div class="fs-6 cl-blue-700 fw-bold">Monsuru Okuniyi</div>
+                  <span class="mt-1 cl-primary">COO at Houseparry</span>
                 </div>
               </figcaption>
             </div>

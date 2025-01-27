@@ -6,16 +6,7 @@ function Footer() {
   div.innerHTML = `
 <div class="row gy-5">
 <div class="col-12 col-sm-10 col-md-5 col-lg-5">
-  <a href="#">
-    <div class="brand-logo">
-      <img
-        class=""
-        src="./images/BrandLogo-light (1).svg"
-        alt="beandLogo"
-        type="images/svg"
-      />
-    </div>
-  </a>
+     
   <div class="brand-tagline h2 my-3 w-75">
     Bespoke software solutions
   </div>
@@ -40,8 +31,8 @@ function Footer() {
     <div class="col-6 col-sm-5 col-lg-3">
       <div class="fw-6">Connect</div>
       <div class="row gy-2 mt-2">
-        <div><a href="#">hi@beezzly.com</a></div>
-        <div><a href="#">+(123) 456-7890</a></div>
+        <div><a href="#">hello.ftghub@gmail.com</a></div>
+        <div><a href="#">080 3318 1037</a></div>
       </div>
     </div>
     <div class="col-10 col-sm-10 col-lg-6">
@@ -49,7 +40,7 @@ function Footer() {
       <div class="row mt-2">
         <form>
           <input
-            class="w-100 my-2 py-2 px-3 rounded-pill border-0"
+            class="w-100 my-2 mx-2 py-2 px-3 rounded-pill border-0"
             type="text"
             name=""
             id=""
