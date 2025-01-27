@@ -30,20 +30,20 @@
     "description": "",
     "PostsObject": [
       {
-        "title": "Why you have to digitalize in 2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et,",
+        "title": "Why you have to digitalize in 2025",
+        "description": "In 2025, digital transformation is no longer optional—it’s essential for survival and growth. From streamlining operations to reaching new customers, going digital ensures your business stays competitive, agile, and ready for the future.",
         "imgURL": "./images/blogSection-img1.png",
         "linkURL": "./BlogInner.html"
       },
       {
         "title": "Our internal process and longerm vision",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et,",
+        "description": "We combine a structured, collaborative process with a forward-thinking vision to deliver solutions that not only meet your immediate needs but also scale with your future goals. Our focus is on innovation, sustainability, and creating lasting impact.",
         "imgURL": "./images/blogSection-img2.png",
         "linkURL": "./BlogInner.html"
       },
       {
         "title": "Helping the next generation of leaders",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et,",
+        "description": "We’re committed to empowering young minds with the skills and confidence to lead in a tech-driven world. Through our training programs and community initiatives, we’re shaping the innovators and problem-solvers of tomorrow.",
         "imgURL": "./images/blogSection-img3.png",
         "linkURL": "./BlogInner.html"
       }
