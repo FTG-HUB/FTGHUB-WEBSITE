@@ -32,7 +32,8 @@ function Footer() {
       <div class="fw-6">Connect</div>
       <div class="row gy-2 mt-2">
         <div><a href="#">hello.ftghub@gmail.com</a></div>
-        <div><a href="#">080 3318 1037</a></div>
+        <div><a href="#">07064695072</a></div>
+        <div><a href="#">08081068480</a></div>
       </div>
     </div>
     <div class="col-10 col-sm-10 col-lg-6">
